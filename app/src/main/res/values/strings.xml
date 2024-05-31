@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Rekomendasi Film</string>
+    <string name="film_title">Judul Film</string>
+    <string name="film_rate">⭐ 10/10</string>
+    <string name="about">profile</string>
+    <string name="film_sinopsis">Film Sinopsis</string>
+    <string name="about_name">Gilang Nur Rizki</string>
+    <string name="about_email">gilangnurrizki173@gmail.com</string>
+
+
+    <string-array name="data_title">
+        <item>13 Bom di Jakarta</item>
+        <item>Budi Pekerti</item>
+        <item>Evil Dead Rise</item>
+        <item>Ganjil Genap</item>
+        <item>Jatuh Cinta Seperti di Film-film</item>
+        <item>Kembang Api</item>
+        <item>Ketika Berhenti di Sini</item>
+        <item>Onde Mande</item>
+        <item>Sewu Dino</item>
+        <item>Sleep Call</item>
+    </string-array>
+
+    <string-array name="data_rate">
+        <item>⭐ 10/10</item>
+        <item>⭐ 8/10</item>
+        <item>⭐ 9/10</item>
+        <item>⭐ 8/10</item>
+        <item>⭐ 8/10</item>
+        <item>⭐ 8/10</item>
+        <item>⭐ 8/10</item>
+        <item>⭐ 10/10</item>
+        <item>⭐ 10/10</item>
+        <item>⭐ 10/10</item>
+    </string-array>
+
+    <string-array name="data_poster">
+        <item>@drawable/_13_bom_di_jakarta_poster</item>
+        <item>@drawable/budi_pekerti_poster</item>
+        <item>@drawable/evil_dead_rise_poster</item>
+        <item>@drawable/ganjil_genap_poster</item>
+        <item>@drawable/jatuh_cinta_seperti_di_film_poster</item>
+        <item>@drawable/kembang_api_poster</item>
+        <item>@drawable/ketika_berhenti_disini_poster</item>
+        <item>@drawable/ondemande_poster</item>
+        <item>@drawable/sewudino_poster</item>
+        <item>@drawable/sleep_call_poster</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>Sekelompok teroris berusaha memporak-porandakan Jakarta, ibukota Indonesia, dengan serangan bom di tiga belas titik berbeda. Pihak keamanan yang mengetahui rencana tersebut, berusaha bertindak cepat agar tidak ada korban jiwa.</item>
+        <item>Video Bu Prani, guru BK yang terlibat perselisihan dengan pengunjung di pasar menjadi viral di internet. Karena sikapnya dinilai tak mencerminkan seorang guru, ia dikecam oleh netizen. Hal ini pun berdampak buruk pada karir dan keutuhan keluarganya.</item>
+        <item>Evil Dead Rise menceritakan kisah mengejutkan tentang dua saudara perempuan yang terasing yang reuninya dipersingkat oleh munculnya setan yang merasuki manusia, mendorong mereka ke dalam pertempuran utama untuk bertahan hidup saat mereka menghadapi versi keluarga paling mengerikan yang bisa dibayangkan.</item>
+        <item>Sembuh dari patah hati tak pernah mudah. Gala yang sudah pacaran delapan tahun dengan Bara, ingin segera dinikahi. Tetapi tiba-tiba Bara malah minta putus. Gala hancur, berjuang keras menyembuhkan hatinya. Untunglah hadir Aiman menemani Gala, membantu Gala untuk sembuh. Gala bahkan mulai jatuh hati. Tetapi Gala perlahan sadar, Aiman sama saja dengan Bara. Aiman bukan obat patah hatinya. Akankah patah hati Gala sembuh? Atau justru semakin patah?</item>
+        <item>Bagus, seorang penulis skenario, bertemu kembali dengan teman SMA dan pujaan hatinya, Hana, yang masih berduka karena kehilangan suaminya. Dia ingin meyakinkan Hana untuk jatuh cinta sekali lagi, seperti di film-film.</item>
+        <item>4 orang berniat bunuh diri bersama dengan meledakkan diri menggunakan sebuah bola besar berisi kembang api, namun terjadi peristiwa aneh, setiap kali meledak, mereka tidak mati dan kembali ke kondisi awal.</item>
+        <item>Pertemuan Dita dan Ed awalnya terjadi karena kesalahpahaman. Namun, pada akhirnya berujung pada perbincangan panjang dan hangat. Ed yang menyukai teka-teki meminta Dita untuk menyelesaikan tantangan teka-teki darinya. Petualangan keduanya pada akhirnya berakhir dengan romansa. Dua orang yang memiliki kesamaan, namun juga perbedaan akhirnya bersatu. Empat tahun setelah pertemuan pertama mereka, Dita sedang berjuang untuk meraih impiannya, sementara Ed sudah mapan dengan perusahaan arsitek miliknya. Dita yang merasa tidak percaya diri dan insecure, tanpa disadari terus menuntut Ed. Meskipun Ed sabar melayani Dita, pada akhirnya ia mengalami kecelakaan karena ia terus menelfon Dita sambil mengemudi. Ed meninggal dan Dita merasa hancur dan bersalah.</item>
+        <item>Demi mendapatkan hadiah sayembara senilai 2 Miliar dari perusahaan sabun, warga desa yang tinggal di tepi Danau Maninjau, Sumatera Barat menyusun rencana besar. Sebab, sang pemenang sayembara, Angku Wan yang merupakan sosok tetua di desa tersebut meninggal sebelum mengklaim hadiahnya. Lewat berbagai cara, warga desa: Ni Ta, Da Am, Si Mar dan lainnya berusaha meyakinkan perusahaan sabun bahwa Angku Wan masih hidup. Bukan karena keserakahan, hadiah akan digunakan untuk tujuan yang mulia, yaitu membangun desa demi kesejahteraan bersama seperti pesan terakhir Angku Wan. Namun, rencana-rencana yang disusun warga desa mengundang pro dan kontra. Keadaan pun semakin runyam tatkala Anwar selaku perwakilan perusahaan sabun datang ke desa secara tiba-tiba untuk memvalidasi pemenang. Apa rencana yang akhirnya mereka pilih? Dan akankah rencana mereka berhasil.</item>
+        <item>Ditengah kesulitan ekonomi, Sri diterima bekerja untuk keluarga Atmojo dengan bayaran yang tinggi, karena keunikan yang ia miliki, yaitu lahir pada hari Jumat Kliwon. Bersama Erna dan Dini, mereka dibawa ke sebuah gubuk tersembunyi di tengah hutan. Di gubuk tersebut, Sri, Erna, dan Dini bertugas untuk memandikan Dela Atmojo, cucu dari Mbah Karsa Atmojo yang tidak sadarkan diri karena kutukan santet Sewu Dino, salah satu santet yang paling mengerikan. Mereka tidak bisa lari dari gubuk tersebut karena terikat perjanjian mistis dengan Mbah Karsa Atmojo, dan mereka harus selesaikan ritual sampai hari ke 1000. Jika melanggar, kematian menanti mereka.</item>
+        <item>Penagih utang tapi juga terlilit utang, Dina (Laura Basuki), terjebak dalam hidup yang keras dan kesepian. Sleep call jadi pelarian, agar kerasnya teror pinjol bisa terobati oleh hangatnya sleep call-an tiap malam dengan Rama (Bio One), pria yang ia kenal dari dating apps.</item>
+    </string-array>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+</resources>
