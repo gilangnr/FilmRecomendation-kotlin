@@ -1,5 +1,6 @@
 package com.example.submissiondicoding
 
+import android.content.Intent
 import android.media.Image
 import android.view.LayoutInflater
 import android.view.View
@@ -29,5 +30,11 @@ class ListFilmAdapter(private val listFilm: ArrayList<Film>) : RecyclerView.Adap
         holder.tvTitle.text = title
         holder.tvRate.text = rate
         holder.tvSinopsis.text = sinopsis
+
+        holder.itemView.setOnClickListener{
+            val intent = Intent(holder.itemView.context, DetailActivity::class.java)
+            intent.putExtra(DetailActivity.EXTRA_FILM, listFilm[position])
+            holder.itemView.context.startActivity(intent)
+        }
     }
 }

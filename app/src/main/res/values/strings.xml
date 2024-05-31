@@ -1,11 +1,14 @@
 <resources>
-    <string name="app_name">Rekomendasi Film</string>
+    <string name="app_name">Rekomendasi-Film</string>
     <string name="film_title">Judul Film</string>
     <string name="film_rate">⭐ 10/10</string>
     <string name="about">profile</string>
     <string name="film_sinopsis">Film Sinopsis</string>
     <string name="about_name">Gilang Nur Rizki</string>
     <string name="about_email">gilangnurrizki173@gmail.com</string>
+    <string name="share">Bagikan film ini</string>
+    <string name="splash">Rekomendasi Film</string>
+    <string name="detail">Detail Film</string>
 
 
     <string-array name="data_title">

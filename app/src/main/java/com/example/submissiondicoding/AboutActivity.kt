@@ -16,16 +16,6 @@ class AboutActivity : AppCompatActivity() {
             setHomeAsUpIndicator(R.drawable.baseline_arrow_back_24)
 
         }
-        //    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-//        menuInflater.inflate(R.menu.menu_main, menu)
-//        return true
-//    }
-//
-//    override fun onPrepareOptionsMenu(menu: Menu?): Boolean {
-//        val aboutItem = menu?.findItem(R.id.about_page)
-//        aboutItem?.isVisible = false
-//        return super.onPrepareOptionsMenu(menu)
-//    }
 
     }
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
